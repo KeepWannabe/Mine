@@ -4,15 +4,10 @@
 
 # logo abaykan
 abaykan="$fg_bold[cyan]
-     _-----_
-    |       |    
-    |--(o)--|     ╒ $fg_bold[white]abaykan$fg_bold[cyan] ═════════════════════════════════════════════════════════╕
-   '---------'    │$fg_bold[white]I was addicted to Hacking, more for the intellectual challenge,$fg_bold[cyan]   │
-    ( _ U _ )     │$fg_bold[white]the curiosity, the seduction of adventure; not for stealing,$fg_bold[cyan]      │
-    /___A___\	  │$fg_bold[white]or causing a damage or writing computer viruses. - Kevin Mitnick.$fg_bold[cyan] │
-     |  ~  |	  ╘══════════════════════════════════════════════════════════════════╛ $fg_bold[cyan]
-   __'.___.'__
- '   '  |° ' Y '
+       (_    ,_,    _) 
+       / `'--) (--'` \      What should i do dude ?
+      /  _,-'\_/'-,_  \
+     /.-'     "     '-.\
  "
 # whoami
 g_whoami="☉ $fg[white]Whomai  : `whoami`$fg[cyan]"
